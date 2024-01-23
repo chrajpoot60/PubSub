@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanPubSub", "KanPubSub\KanPubSub.csproj", "{7C298D5F-37BE-475C-B9E4-5C0E41B38FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C298D5F-37BE-475C-B9E4-5C0E41B38FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C298D5F-37BE-475C-B9E4-5C0E41B38FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C298D5F-37BE-475C-B9E4-5C0E41B38FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C298D5F-37BE-475C-B9E4-5C0E41B38FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {479786EB-6F56-4CFD-9298-C89A459C861E}
+	EndGlobalSection
+EndGlobal
